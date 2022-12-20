@@ -1,5 +1,5 @@
 # ADFS-AzureMFAUtil
-This utility to automate checking system prerequisites, new certificate generation, and renewal. It will also allow you to update TLS 1.2 registry keys to ensure cross-premise functionality
+This utility will automate checking system prerequisites, new certificate generation, and renewal. It will also allow you to update TLS 1.2 registry keys to ensure cross-premise functionality
 after the recent deprecation of TLS 1.0 and TLS 1.1  in Azure. https://techcommunity.microsoft.com/t5/azure/azure-active-directory-tls-1-0-tls-1-1-and-3des-deprecation/m-p/2148244
 
 # Notice of Operation
