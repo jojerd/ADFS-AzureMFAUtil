@@ -512,7 +512,7 @@ function Get-OnPremPreRequisites {
         Write-Host "Check Azure MFA Utility Log for further details"      
     }
     else {
-        Write-Host "All IP Addreses for $DNSEndpoint2 resolved successfully"  -ForegroundColor Green     
+        Write-Host "All IP Addresses for $DNSEndpoint2 resolved successfully"  -ForegroundColor Green     
     }
     if ($TestConnectivity1.TcpTestSucceeded -eq $true -and $null -eq $Endpoint1Array) { Write-Host "Port 443 is reachable for all IP Addresses associated with '$DNSEndpoint1'" -ForegroundColor Green }
     else {
