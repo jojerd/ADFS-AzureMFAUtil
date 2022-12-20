@@ -11,7 +11,6 @@ https://learn.microsoft.com/en-us/windows-server/identity/ad-fs/operations/confi
 
 # Operation
 
-
 When executing the script you will be presented with a number of options on how you would like to proceed:
 
 ![AzureMFAOptions](https://user-images.githubusercontent.com/55394498/208769872-230e394c-5236-4dcd-89fc-cd17dbebbd1c.jpg)
